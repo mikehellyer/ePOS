@@ -13,7 +13,7 @@ namespace ePOS
     public partial class frmMain : Form
     {
 
-        //nprivate string eposConnectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=ePOSdata;Integrated Security=True";
+        //private string eposConnectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=ePOSdata;Integrated Security=True";
         public static SqlConnection SQLConn = new SqlConnection("Data Source=(LocalDb)\\MSSQLLocalDB;Initial Catalog=ePosData;Integrated Security=True");
         //private string commandString = "";
         private SqlDataAdapter SQLda = new SqlDataAdapter();
