@@ -350,9 +350,10 @@ namespace Keypad
             optional_button_data = new ArrayList();
             foreach(DataRow row in data_table.Rows)
             {
-                //MessageBox.Show(row["description"].ToString());
+                MessageBox.Show(row["description"].ToString());
                 Departments.Add(row[1].ToString());
                 optional_button_data.Add(row[0].ToString());
+                
             }
 
             updateButtons();

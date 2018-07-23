@@ -95,6 +95,7 @@ namespace ePOS
             }
 
             matrixScrollPad1.uploadDepartments(filteredProducts);
+            
 
         }
 
