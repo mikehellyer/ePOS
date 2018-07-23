@@ -1,0 +1,10 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+db.lock - https://onedrive.live.com/?cid=21ec23a220dc6ca7&id=21EC23A220DC6CA7%21191196&action=Download
+
+ePOS.csproj.CopyComplete - https://onedrive.live.com/?cid=21ec23a220dc6ca7&id=21EC23A220DC6CA7%21191191&action=Download
+
+build.force - https://onedrive.live.com/?cid=21ec23a220dc6ca7&id=21EC23A220DC6CA7%21191166&action=Download
+
+
+
