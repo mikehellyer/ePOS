@@ -51,7 +51,7 @@ namespace Keypad
             //button1
             if (scrollPos + 0 < Departments.Count) 
             { button1.Text = Departments[scrollPos + 0].ToString();
-              button1.Tag = optional_button_data[scrollPos + 0].ToString();
+              //button1.Tag = optional_button_data[scrollPos + 0].ToString();
             } else 
             { 
                 button1.Text = "";
@@ -61,7 +61,7 @@ namespace Keypad
             if (scrollPos + 1 < Departments.Count)
             {
                 button2.Text = Departments[scrollPos + 1].ToString();
-                button2.Tag = optional_button_data[scrollPos + 1].ToString();
+                //button2.Tag = optional_button_data[scrollPos + 1].ToString();
             }
             else
             {
@@ -73,7 +73,7 @@ namespace Keypad
             if (scrollPos + 2 < Departments.Count)
             {
                 button3.Text = Departments[scrollPos + 2].ToString();
-                button3.Tag = optional_button_data[scrollPos + 2].ToString();
+                //button3.Tag = optional_button_data[scrollPos + 2].ToString();
             }
             else
             {
@@ -85,7 +85,7 @@ namespace Keypad
             if (scrollPos + 3 < Departments.Count)
             {
                 button4.Text = Departments[scrollPos + 3].ToString();
-                button4.Tag = optional_button_data[scrollPos + 3].ToString();
+                //button4.Tag = optional_button_data[scrollPos + 3].ToString();
             }
             else
             {
@@ -97,7 +97,7 @@ namespace Keypad
             if (scrollPos + 4 < Departments.Count)
             {
                 button5.Text = Departments[scrollPos + 4].ToString();
-                button5.Tag = optional_button_data[scrollPos + 4].ToString();
+                //button5.Tag = optional_button_data[scrollPos + 4].ToString();
             }
             else
             {
@@ -109,7 +109,7 @@ namespace Keypad
             if (scrollPos + 5 < Departments.Count)
             {
                 button6.Text = Departments[scrollPos + 5].ToString();
-                button6.Tag = optional_button_data[scrollPos + 5].ToString();
+                //button6.Tag = optional_button_data[scrollPos + 5].ToString();
             }
             else
             {
@@ -121,7 +121,7 @@ namespace Keypad
             if (scrollPos + 6 < Departments.Count)
             {
                 button7.Text = Departments[scrollPos + 6].ToString();
-                button7.Tag = optional_button_data[scrollPos + 6].ToString();
+                //button7.Tag = optional_button_data[scrollPos + 6].ToString();
             }
             else
             {
@@ -133,7 +133,7 @@ namespace Keypad
             if (scrollPos + 7 < Departments.Count)
             {
                 button8.Text = Departments[scrollPos + 7].ToString();
-                button8.Tag = optional_button_data[scrollPos + 7].ToString();
+                //button8.Tag = optional_button_data[scrollPos + 7].ToString();
             }
             else
             {
@@ -145,7 +145,7 @@ namespace Keypad
             if (scrollPos + 8 < Departments.Count)
             {
                 button9.Text = Departments[scrollPos + 8].ToString();
-                button9.Tag = optional_button_data[scrollPos + 8].ToString();
+                //button9.Tag = optional_button_data[scrollPos + 8].ToString();
             }
             else
             {
@@ -157,7 +157,7 @@ namespace Keypad
             if (scrollPos + 9 < Departments.Count)
             {
                 button10.Text = Departments[scrollPos + 9].ToString();
-                button10.Tag = optional_button_data[scrollPos + 9].ToString();
+                //button10.Tag = optional_button_data[scrollPos + 9].ToString();
             }
             else
             {
@@ -169,7 +169,7 @@ namespace Keypad
             if (scrollPos + 10 < Departments.Count)
             {
                 button11.Text = Departments[scrollPos + 10].ToString();
-                button11.Tag = optional_button_data[scrollPos + 10].ToString();
+                //button11.Tag = optional_button_data[scrollPos + 10].ToString();
             }
             else
             {
@@ -181,7 +181,7 @@ namespace Keypad
             if (scrollPos + 11 < Departments.Count)
             {
                 button12.Text = Departments[scrollPos + 11].ToString();
-                button12.Tag = optional_button_data[scrollPos + 11].ToString();
+                //button12.Tag = optional_button_data[scrollPos + 11].ToString();
             }
             else
             {
@@ -193,7 +193,7 @@ namespace Keypad
             if (scrollPos + 12 < Departments.Count)
             {
                 button13.Text = Departments[scrollPos + 12].ToString();
-                button13.Tag = optional_button_data[scrollPos + 12].ToString();
+                //button13.Tag = optional_button_data[scrollPos + 12].ToString();
             }
             else
             {
@@ -205,7 +205,7 @@ namespace Keypad
             if (scrollPos + 13 < Departments.Count)
             {
                 button14.Text = Departments[scrollPos + 13].ToString();
-                button14.Tag = optional_button_data[scrollPos + 13].ToString();
+                //button14.Tag = optional_button_data[scrollPos + 13].ToString();
             }
             else
             {
@@ -217,7 +217,7 @@ namespace Keypad
             if (scrollPos + 14 < Departments.Count)
             {
                 button15.Text = Departments[scrollPos + 14].ToString();
-                button15.Tag = optional_button_data[scrollPos + 14].ToString();
+                //button15.Tag = optional_button_data[scrollPos + 14].ToString();
             }
             else
             {
@@ -229,7 +229,7 @@ namespace Keypad
             if (scrollPos + 15 < Departments.Count)
             {
                 button16.Text = Departments[scrollPos + 15].ToString();
-                button16.Tag = optional_button_data[scrollPos + 15].ToString();
+                //button16.Tag = optional_button_data[scrollPos + 15].ToString();
             }
             else
             {
@@ -241,7 +241,7 @@ namespace Keypad
             if (scrollPos + 16 < Departments.Count)
             {
                 button17.Text = Departments[scrollPos + 16].ToString();
-                button17.Tag = optional_button_data[scrollPos + 16].ToString();
+                //button17.Tag = optional_button_data[scrollPos + 16].ToString();
             }
             else
             {
@@ -253,7 +253,7 @@ namespace Keypad
             if (scrollPos + 17 < Departments.Count)
             {
                 button18.Text = Departments[scrollPos + 17].ToString();
-                button18.Tag = optional_button_data[scrollPos + 17].ToString();
+                //button18.Tag = optional_button_data[scrollPos + 17].ToString();
             }
             else
             {
@@ -265,7 +265,7 @@ namespace Keypad
             if (scrollPos + 18 < Departments.Count)
             {
                 button19.Text = Departments[scrollPos + 18].ToString();
-                button19.Tag = optional_button_data[scrollPos + 18].ToString();
+                //button19.Tag = optional_button_data[scrollPos + 18].ToString();
             }
             else
             {
@@ -277,7 +277,7 @@ namespace Keypad
             if (scrollPos + 19 < Departments.Count)
             {
                 button20.Text = Departments[scrollPos + 19].ToString();
-                button20.Tag = optional_button_data[scrollPos + 19].ToString();
+                //button20.Tag = optional_button_data[scrollPos + 19].ToString();
             }
             else
             {
@@ -289,7 +289,7 @@ namespace Keypad
             if (scrollPos + 20 < Departments.Count)
             {
                 button21.Text = Departments[scrollPos + 20].ToString();
-                button21.Tag = optional_button_data[scrollPos + 20].ToString();
+               // button21.Tag = optional_button_data[scrollPos + 20].ToString();
             }
             else
             {
@@ -301,7 +301,7 @@ namespace Keypad
             if (scrollPos + 21 < Departments.Count)
             {
                 button22.Text = Departments[scrollPos + 21].ToString();
-                button22.Tag = optional_button_data[scrollPos + 21].ToString();
+                //button22.Tag = optional_button_data[scrollPos + 21].ToString();
             }
             else
             {
